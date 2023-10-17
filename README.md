@@ -1,5 +1,5 @@
+## 👾Seohyun Kwon👾
 <div align=center>
-  <h3>👾Seohyun Kwon👾</h3>
   <p>
   <a href="https://velog.io/@seohyunkwon98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   <a href="mailto:seohyunkwon98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
