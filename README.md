@@ -1,6 +1,6 @@
 <div align=center>
 
-  ## 👾Seohyun Kwon👾
+  ### Hi👋 I'm Seohyun Kwon.
     
   #### 💌Contact💌
   <p> 
@@ -31,10 +31,10 @@
       <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
       <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
   </p>
-  
+
+  #### 🎖️Solved.ac🎖️
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyunkwon98)](https://solved.ac/seohyunkwon98/)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunkwon)
-</div>
 
+</div>
 
