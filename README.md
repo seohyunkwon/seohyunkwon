@@ -1,27 +1,18 @@
-## 👾Seohyun Kwon👾
 <div align=center>
+
+  ## 👾Seohyun Kwon👾
   <p>
+    
+  ### 💌Contact💌
+    
   <a href="https://velog.io/@seohyunkwon98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   <a href="mailto:seohyunkwon98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/murrmmur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-</p>
-<p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
-</p>
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seohyunkwon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyunkwon98)](https://solved.ac/seohyunkwon98/)
-  
- 
-
-
+  </p>
   
   
 
-## Platforms & Languages
+### 🛠️Tech Skills🛠️
 <p>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -45,5 +36,13 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 </div>
+
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seohyunkwon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyunkwon98)](https://solved.ac/seohyunkwon98/)
+  
+ 
+
+
+  
 </div>
 
